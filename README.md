@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### The Application Shell
+
+* Used the Angular CLI
+* Used components to display data
+* Used double curly braces to display data
+
+### Hero Editor
+
+* Used the CLI to create a new component
+* Added one component to a parent component
+* Used pipes
+* Used two-way data binding
+* AppModule
+* FormsModule
+* Declaring components in AppModule
+
+### Displaying a List
+
+* Display a master/detail view
+* select heroes
+* *ngFor
+* *ngIf
+* toggle CSS styles
